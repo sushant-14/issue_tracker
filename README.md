@@ -45,8 +45,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/sushant-14/csv_file_Upload.git
-    $ cd csv_file_Upload
+    $ git clone https://github.com/sushant-14/issue_tracker.git
+    $ cd issue_tracker
     $ yarn install
 
 ## Configure app
